@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+h1{
+	color:red;
+	font-style:italic
+}
+#project{
+	text-transform:capitalize;
+}
